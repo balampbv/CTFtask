@@ -767,7 +767,7 @@ var AuthService = (function () {
             return ep;
         }
         else {
-            return 'http://139.59.42.94:3003/' + ep;
+            return 'http://localhost:3003/' + ep;
         }
     };
     AuthService = __decorate([

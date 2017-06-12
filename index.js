@@ -17,7 +17,7 @@ var app = express();
 var users =  require('./routes/users');
 
 //Port Declaration
-var port = 3003;
+var port = 80;
 
 
 // CORS Middleware
